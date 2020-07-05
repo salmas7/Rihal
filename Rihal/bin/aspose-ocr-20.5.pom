@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.aspose</groupId>
+	<artifactId>aspose-ocr</artifactId>
+	<version>20.5</version>
+	<name>ocr</name>
+	<properties>
+		<project.displayName>Aspose.OCR for Java</project.displayName>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+	<dependencies>
+		<dependency>
+		  <groupId>org.bytedeco</groupId>
+		  <artifactId>onnxruntime-platform</artifactId>
+		  <version>1.2.0-1.5.3</version>
+		</dependency>
+	</dependencies>
+	<organization>
+		<name>Aspose</name>
+		<url>https://products.aspose.com/ocr/java</url>
+	</organization>
+	<description>Aspose.OCR for Java is a stand-alone OCR API for Java applications while allowing the developers to perform optical character recognition on commonly used image types. It provides a simple set of classes to control character recognition for various languages including English, French, Spanish and Portuguese. Developers can easily read characters in multiple fonts, rotated images, whole images or parts of images with the ability to apply different noise removal filters before text recognition.
+	</description>
+</project>
